@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kallaguntabalaji12/kallaguntabalaji12/main/assets/profile-avatar.svg" width="180" height="180" alt="Kallagunta Balaji profile photo in a circular frame" />
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F175921104%3Fv%3D4&fit=cover&mask=circle&w=180&h=180" width="180" height="180" alt="Kallagunta Balaji profile photo, cropped to a circle" />
   <br />
   <img src="https://raw.githubusercontent.com/kallaguntabalaji12/kallaguntabalaji12/main/assets/profile-banner.svg" width="100%" alt="Kallagunta Balaji — Software Engineer and AI/ML enthusiast" />
 
