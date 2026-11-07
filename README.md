@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://github.com/kallaguntabalaji12.png" width="180" height="180" alt="Kallagunta Balaji" style="border-radius:50%; border:4px solid #38bdf8; box-shadow:0 0 20px rgba(56,189,248,0.7);" />
+
   <img src="https://raw.githubusercontent.com/kallaguntabalaji12/kallaguntabalaji12/main/assets/profile-banner.svg" width="100%" alt="Kallagunta Balaji — Software Engineer and AI/ML enthusiast" />
 
   # Kallagunta Balaji
