@@ -1,61 +1,61 @@
 <div align="center">
   <a href="https://github.com/kallaguntabalaji12">
-    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F175921104%3Fv%3D4&fit=cover&mask=circle&w=180&h=180" width="150" height="150" alt="Kallagunta Balaji's GitHub profile photo, circular crop" />
+    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F175921104%3Fv%3D4&fit=cover&mask=circle&w=180&h=180" width="150" height="150" alt="Kallagunta Balaji's GitHub profile photo in a circular crop" />
   </a>
   <br />
-  <img src="https://raw.githubusercontent.com/kallaguntabalaji12/kallaguntabalaji12/main/assets/profile-banner.svg" width="100%" alt="Kallagunta Balaji | Software Engineer and AI/ML" />
-
+  <img src="https://raw.githubusercontent.com/kallaguntabalaji12/kallaguntabalaji12/main/assets/profile-banner.svg" width="100%" alt="Professional dark banner: Kallagunta Balaji, Software Engineering and Applied AI/ML" />
   <h1>Kallagunta Balaji</h1>
-  <p><strong>Software Engineer | Python · Core Java · AI/ML</strong></p>
+  <p><strong>Software Engineer | Python · Core Java · Applied AI/ML</strong></p>
   <p>Advanced Computing student at C-DAC ACTS, Pune · Open to entry-level software engineering and data science opportunities</p>
-
-  <a href="https://www.linkedin.com/in/balajikallagunta4425/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:kallaguntabalaji143@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/kallaguntabalaji12?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+  <p>
+    <a href="https://www.linkedin.com/in/balajikallagunta4425/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+    <a href="mailto:kallaguntabalaji143@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/kallaguntabalaji12?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+  </p>
 </div>
 
 ---
 
 ## About
 
-Computer Science graduate pursuing a **Post Graduate Diploma in Advanced Computing at C-DAC ACTS, Pune**. I enjoy building applied AI/ML projects across NLP and computer vision, alongside practical software and data applications. I value clear documentation, reproducible results, and learning by building.
+Computer Science graduate pursuing a **Post Graduate Diploma in Advanced Computing at C-DAC ACTS, Pune**. I build practical projects in software development, natural language processing, computer vision, and data analytics. I’m focused on writing clear, maintainable code and presenting project work with reproducible results.
 
-- 🎓 **B.Tech, Computer Science** — St. Ann’s College of Engineering · CGPA **7.55/10**
+- 🎓 **B.Tech in Computer Science** — St. Ann’s College of Engineering · CGPA **7.55/10**
 - 📚 **PG Diploma in Advanced Computing** — C-DAC ACTS, Pune · Aug 2026–Feb 2027
-- 🎯 Interested in entry-level **Software Engineering** and **Data Science** roles
+- 🎯 Seeking entry-level **Software Engineering** and **Data Science** opportunities
 - 📍 Andhra Pradesh, India · Open to relocation
 
 ## Technical Skills
 
-| Focus | Technologies |
+| Area | Skills |
 | --- | --- |
 | Programming | Python · Core Java · SQL |
-| AI / ML | PyTorch · Hugging Face Transformers · RoBERTa · BiLSTM · YOLOv8 |
-| Computer vision & NLP | OpenCV · Natural Language Processing · Deep Learning |
-| Apps & data | Streamlit · HTML · CSS · Bootstrap · Power Query · DAX |
-| Tools | Git · Google Colab · VS Code · MS Excel · SQL*Plus |
+| Machine learning | PyTorch · Hugging Face Transformers · RoBERTa · BiLSTM · YOLOv8 |
+| AI domains | Natural Language Processing · Deep Learning · Computer Vision |
+| Applications & analytics | Streamlit · HTML · CSS · Bootstrap · Power Query · DAX |
+| Tools & databases | Git · Google Colab · VS Code · MS Excel · SQL*Plus |
 
-## Featured Projects
+## Selected Projects
 
 ### [Context-Aware Sentiment Analysis — RoBERTa + BiLSTM](https://github.com/kallaguntabalaji12/Context-Aware-Sentiment-Analysis-Using-RoBERTa-and-BiLSTM)
-Hybrid sentiment classification project with an interactive Streamlit app for single-text and batch predictions. Evaluation considers accuracy, precision, recall, and F1-score.
+Hybrid sentiment-classification project with a Streamlit interface for single-text and batch predictions. The project evaluates predictions with accuracy, precision, recall, and F1-score; see the repository for implementation details.
 
-**Built with:** Python · PyTorch · Hugging Face Transformers · Streamlit
+**Python · PyTorch · Hugging Face Transformers · Streamlit**
 
-### [Real-Time Sales Dashboard](https://github.com/kallaguntabalaji12/RealTimeSalesDashboard) · [Open live dashboard](https://kallaguntabalaji12.github.io/RealTimeSalesDashboard)
-Power BI dashboard exploring sales KPIs, trends, and country-wise performance.
+### [Real-Time Sales Dashboard](https://github.com/kallaguntabalaji12/RealTimeSalesDashboard) · [Live dashboard](https://kallaguntabalaji12.github.io/RealTimeSalesDashboard)
+Power BI dashboard presenting sales KPIs, trends, and country-wise performance.
 
-**Built with:** Power BI · Excel · Power Query · DAX
+**Power BI · Excel · Power Query · DAX**
 
 ### [FreelanceFinder](https://github.com/kallaguntabalaji12/Freelancefinder)
-Marketplace project concept for connecting clients and freelancers through job posts, bids, and project workflows.
+Marketplace project connecting clients and freelancers through job posts, bids, and project workflows.
 
-**Built with:** JavaScript · React
+**JavaScript · React**
 
 ### Real-Time Object Detection and Tracking
-Webcam-based object detection and multi-object tracking project using YOLOv8 and OpenCV. The project details are based on my resume; a public repository link is not currently available.
+Webcam-based detection and multi-object tracking project using YOLOv8 and OpenCV. This project is described in my resume; a public repository link is not currently available.
 
-**Built with:** Python · YOLOv8 · OpenCV
+**Python · YOLOv8 · OpenCV**
 
 ## Certifications
 
@@ -63,10 +63,10 @@ Webcam-based object detection and multi-object tracking project using YOLOv8 and
 - Short-Term Internship on Artificial Intelligence — APSCHE & AIMER Society
 - Data Science Foundations — Great Learning Academy
 
-## Currently Learning & Building
+## Current Focus
 
-- Strengthening software engineering, algorithms, databases, and applied AI/ML skills through my C-DAC program
-- Building well-documented Python and Java projects
+- Strengthening software engineering fundamentals, algorithms, and databases
+- Developing well-documented Python and Java projects
 - Improving model evaluation and end-to-end application development
 
 ## Connect
