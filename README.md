@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kallaguntabalaji12/BalajiKallagunta/main/assets/profile-banner.svg" width="100%" alt="Kallagunta Balaji — Software Engineer and AI/ML enthusiast" />
+  <img src="https://raw.githubusercontent.com/kallaguntabalaji12/kallaguntabalaji12/main/assets/profile-banner.svg" width="100%" alt="Kallagunta Balaji — Software Engineer and AI/ML enthusiast" />
 
   # Kallagunta Balaji
 
@@ -9,14 +9,14 @@
 
   <a href="https://www.linkedin.com/in/balajikallagunta4425/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:kallaguntabalaji143@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Balaji" /></a>
-  <a href="https://github.com/kallaguntabalaji12?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
+  <a href="https://github.com/kallaguntabalaji12?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Projects" /></a>
 </div>
 
 ---
 
 ## About Me
 
-I’m a Computer Science engineering graduate currently pursuing **Advanced Computing at C-DAC ACTS, Pune**. My project experience spans Python, computer vision, NLP, machine learning, and web application development. I enjoy solving practical problems, collaborating with others, and turning technical ideas into useful applications.
+I’m a Computer Science engineering graduate currently pursuing **Advanced Computing at C-DAC ACTS, Pune**. My project experience spans Python, computer vision, NLP, machine learning, and web applications.
 
 - 🎓 **B.Tech in Computer Science**, St. Ann’s College of Engineering · CGPA: **7.55/10**
 - 📚 **PG Diploma in Advanced Computing**, C-DAC ACTS, Pune · Aug 2026–Feb 2027
