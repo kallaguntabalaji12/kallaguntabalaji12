@@ -10,6 +10,7 @@
   <p>
     <a href="https://www.linkedin.com/in/balajikallagunta4425/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
     <a href="mailto:kallaguntabalaji143@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://instagram.com/balaji_kallagunta_65"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://github.com/kallaguntabalaji12?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
   </p>
 </div>
@@ -72,6 +73,7 @@ Webcam-based detection and multi-object tracking project using YOLOv8 and OpenCV
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/balajikallagunta4425/)
+- [Instagram](https://instagram.com/balaji_kallagunta_65)
 - [Email](mailto:kallaguntabalaji143@gmail.com)
 - [All repositories](https://github.com/kallaguntabalaji12?tab=repositories)
 
