@@ -18,7 +18,7 @@
 
 ## About
 
-Computer Science graduate pursuing a **Post Graduate Diploma in Advanced Computing at C-DAC ACTS, Pune**. I build practical projects in software development, natural language processing, computer vision, and data analytics. I’m focused on writing clear, maintainable code and presenting project work with reproducible results.
+Computer Science graduate pursuing a **Post Graduate Diploma in Advanced Computing at C-DAC ACTS, Pune**. I build practical projects in software development, natural language processing, computer vision, and data analytics. I’m focused on clear documentation, reproducible results, and communicating what a project demonstrates honestly.
 
 - 🎓 **B.Tech in Computer Science** — St. Ann’s College of Engineering · CGPA **7.55/10**
 - 📚 **PG Diploma in Advanced Computing** — C-DAC ACTS, Pune · Aug 2026–Feb 2027
@@ -38,17 +38,17 @@ Computer Science graduate pursuing a **Post Graduate Diploma in Advanced Computi
 ## Selected Projects
 
 ### [Context-Aware Sentiment Analysis — RoBERTa + BiLSTM](https://github.com/kallaguntabalaji12/Context-Aware-Sentiment-Analysis-Using-RoBERTa-and-BiLSTM)
-Hybrid sentiment-classification project with a Streamlit interface for single-text and batch predictions. The project evaluates predictions with accuracy, precision, recall, and F1-score; see the repository for implementation details.
+NLP project describing a hybrid RoBERTa + BiLSTM approach, with single-text and batch sentiment prediction features. The repository README describes evaluation using accuracy, precision, recall, and F1-score, but does not publish numeric results; I’ll add scores after validating them against a documented test set.
 
 **Python · PyTorch · Hugging Face Transformers · Streamlit**
 
-### [Real-Time Sales Dashboard](https://github.com/kallaguntabalaji12/RealTimeSalesDashboard) · [Live dashboard](https://kallaguntabalaji12.github.io/RealTimeSalesDashboard)
-Power BI dashboard presenting sales KPIs, trends, and country-wise performance.
+### [Real-Time Sales Dashboard](https://github.com/kallaguntabalaji12/RealTimeSalesDashboard) · [Open live dashboard](https://kallaguntabalaji12.github.io/RealTimeSalesDashboard)
+Power BI dashboard exploring sales KPIs, product trends, and country-wise performance. The repository reports **10.03M total sales**, **99K quantity**, **1.79M sales YTD**, and **Classic Cars at 39.07% of total sales**.
 
 **Power BI · Excel · Power Query · DAX**
 
 ### [FreelanceFinder](https://github.com/kallaguntabalaji12/Freelancefinder)
-Marketplace project connecting clients and freelancers through job posts, bids, and project workflows.
+Marketplace project for connecting clients and freelancers through job posts, bids, and project workflows. See the repository for implementation and setup details.
 
 **JavaScript · React**
 
@@ -67,7 +67,7 @@ Webcam-based detection and multi-object tracking project using YOLOv8 and OpenCV
 
 - Strengthening software engineering fundamentals, algorithms, and databases
 - Developing well-documented Python and Java projects
-- Improving model evaluation and end-to-end application development
+- Publishing reproducible project demos, screenshots, and measured results
 
 ## Connect
 
