@@ -1,62 +1,61 @@
 <div align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F175921104%3Fv%3D4&fit=cover&mask=circle&w=180&h=180" width="180" height="180" alt="Kallagunta Balaji profile photo, cropped to a circle" />
+  <a href="https://github.com/kallaguntabalaji12">
+    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com%2Fu%2F175921104%3Fv%3D4&fit=cover&mask=circle&w=180&h=180" width="150" height="150" alt="Kallagunta Balaji's GitHub profile photo, circular crop" />
+  </a>
   <br />
-  <img src="https://raw.githubusercontent.com/kallaguntabalaji12/kallaguntabalaji12/main/assets/profile-banner.svg" width="100%" alt="Kallagunta Balaji — Software Engineer and AI/ML enthusiast" />
+  <img src="https://raw.githubusercontent.com/kallaguntabalaji12/kallaguntabalaji12/main/assets/profile-banner.svg" width="100%" alt="Kallagunta Balaji | Software Engineer and AI/ML" />
 
-  # Kallagunta Balaji
-
-  ### Entry-Level Software Engineer | Python · Core Java · AI/ML
-
-  **C-DAC ACTS Pune · Open to entry-level Software Engineer and Data Science opportunities · Open to relocation**
+  <h1>Kallagunta Balaji</h1>
+  <p><strong>Software Engineer | Python · Core Java · AI/ML</strong></p>
+  <p>Advanced Computing student at C-DAC ACTS, Pune · Open to entry-level software engineering and data science opportunities</p>
 
   <a href="https://www.linkedin.com/in/balajikallagunta4425/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:kallaguntabalaji143@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Balaji" /></a>
-  <a href="https://github.com/kallaguntabalaji12?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Projects" /></a>
+  <a href="mailto:kallaguntabalaji143@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/kallaguntabalaji12?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
 </div>
 
 ---
 
-## About Me
+## About
 
-I’m a Computer Science engineering graduate currently pursuing **Advanced Computing at C-DAC ACTS, Pune**. My project experience spans Python, computer vision, NLP, machine learning, and web applications.
+Computer Science graduate pursuing a **Post Graduate Diploma in Advanced Computing at C-DAC ACTS, Pune**. I enjoy building applied AI/ML projects across NLP and computer vision, alongside practical software and data applications. I value clear documentation, reproducible results, and learning by building.
 
-- 🎓 **B.Tech in Computer Science**, St. Ann’s College of Engineering · CGPA: **7.55/10**
-- 📚 **PG Diploma in Advanced Computing**, C-DAC ACTS, Pune · Aug 2026–Feb 2027
-- 🎯 Seeking entry-level **Software Engineer / Data Science** opportunities
+- 🎓 **B.Tech, Computer Science** — St. Ann’s College of Engineering · CGPA **7.55/10**
+- 📚 **PG Diploma in Advanced Computing** — C-DAC ACTS, Pune · Aug 2026–Feb 2027
+- 🎯 Interested in entry-level **Software Engineering** and **Data Science** roles
 - 📍 Andhra Pradesh, India · Open to relocation
 
 ## Technical Skills
 
-| Area | Skills |
+| Focus | Technologies |
 | --- | --- |
-| **Programming** | Python · Core Java · SQL |
-| **AI / Machine Learning** | YOLOv8 · OpenCV · RoBERTa · BiLSTM · Deep Learning · NLP |
-| **Web** | HTML · CSS · Bootstrap · Streamlit |
-| **Tools** | Git · Google Colab · VS Code · MS Excel |
-| **Databases** | SQL*Plus |
+| Programming | Python · Core Java · SQL |
+| AI / ML | PyTorch · Hugging Face Transformers · RoBERTa · BiLSTM · YOLOv8 |
+| Computer vision & NLP | OpenCV · Natural Language Processing · Deep Learning |
+| Apps & data | Streamlit · HTML · CSS · Bootstrap · Power Query · DAX |
+| Tools | Git · Google Colab · VS Code · MS Excel · SQL*Plus |
 
 ## Featured Projects
 
-### 🎥 Real-Time Object Detection and Tracking
-Built a webcam-based object detection and multi-object tracking system using YOLOv8 and OpenCV, with a pipeline designed for real-time inference.
+### [Context-Aware Sentiment Analysis — RoBERTa + BiLSTM](https://github.com/kallaguntabalaji12/Context-Aware-Sentiment-Analysis-Using-RoBERTa-and-BiLSTM)
+Hybrid sentiment classification project with an interactive Streamlit app for single-text and batch predictions. Evaluation considers accuracy, precision, recall, and F1-score.
 
-**Tech:** Python · YOLOv8 · OpenCV  
-*Project details based on my resume; repository link is not currently listed here.*
+**Built with:** Python · PyTorch · Hugging Face Transformers · Streamlit
 
-### 💬 [Context-Aware Sentiment Analysis — RoBERTa + BiLSTM](https://github.com/kallaguntabalaji12/Context-Aware-Sentiment-Analysis-Using-RoBERTa-and-BiLSTM)
-Developed a hybrid NLP sentiment classifier and an interactive Streamlit application for single-text and batch predictions. Model evaluation includes Accuracy, Precision, Recall, and F1-score.
+### [Real-Time Sales Dashboard](https://github.com/kallaguntabalaji12/RealTimeSalesDashboard) · [Open live dashboard](https://kallaguntabalaji12.github.io/RealTimeSalesDashboard)
+Power BI dashboard exploring sales KPIs, trends, and country-wise performance.
 
-**Tech:** Python · PyTorch · Hugging Face · Streamlit · NLP
+**Built with:** Power BI · Excel · Power Query · DAX
 
-### 📊 [Real-Time Sales Dashboard](https://github.com/kallaguntabalaji12/RealTimeSalesDashboard) · [Live dashboard](https://kallaguntabalaji12.github.io/RealTimeSalesDashboard)
-A Power BI dashboard presenting sales KPIs, trends, and country-wise performance for business insights.
+### [FreelanceFinder](https://github.com/kallaguntabalaji12/Freelancefinder)
+Marketplace project concept for connecting clients and freelancers through job posts, bids, and project workflows.
 
-**Tech:** Power BI · Excel · Power Query · DAX
+**Built with:** JavaScript · React
 
-### 🤝 [FreelanceFinder](https://github.com/kallaguntabalaji12/Freelancefinder)
-A web-based marketplace concept connecting clients and freelancers for job posts, bids, and project workflows.
+### Real-Time Object Detection and Tracking
+Webcam-based object detection and multi-object tracking project using YOLOv8 and OpenCV. The project details are based on my resume; a public repository link is not currently available.
 
-**Tech:** JavaScript · React
+**Built with:** Python · YOLOv8 · OpenCV
 
 ## Certifications
 
@@ -64,17 +63,17 @@ A web-based marketplace concept connecting clients and freelancers for job posts
 - Short-Term Internship on Artificial Intelligence — APSCHE & AIMER Society
 - Data Science Foundations — Great Learning Academy
 
-## Currently Focused On
+## Currently Learning & Building
 
-- Advancing software engineering and applied AI/ML skills through my C-DAC program
-- Building reliable, well-documented Python and Java projects
-- Improving my understanding of algorithms, databases, and application development
+- Strengthening software engineering, algorithms, databases, and applied AI/ML skills through my C-DAC program
+- Building well-documented Python and Java projects
+- Improving model evaluation and end-to-end application development
 
 ## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/balajikallagunta4425/)
-- ✉️ [Email](mailto:kallaguntabalaji143@gmail.com)
-- 🧑‍💻 [All GitHub repositories](https://github.com/kallaguntabalaji12?tab=repositories)
+- [LinkedIn](https://www.linkedin.com/in/balajikallagunta4425/)
+- [Email](mailto:kallaguntabalaji143@gmail.com)
+- [All repositories](https://github.com/kallaguntabalaji12?tab=repositories)
 
 <div align="center">
   <sub>Curious learner · Practical problem-solver · Open to opportunities</sub>
